@@ -1,0 +1,13 @@
+docx2txt
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+chromadb
+llama-index
+llama-parse
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+python-dotenv
+groq
